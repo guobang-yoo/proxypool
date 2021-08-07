@@ -10,7 +10,7 @@
 
 #############自己加
 - type: subscribe
-    options:
+  options:
     url: https://iwxf.netlify.app
 
 # 网页模糊抓取
