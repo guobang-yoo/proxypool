@@ -7,12 +7,12 @@ import (
 	"strconv"
 	"time"
 
-	binhtml "github.com/Sansui233/proxypool/internal/bindata/html"
-	"github.com/Sansui233/proxypool/log"
+	binhtml "github.com/guobang-yoo/proxypool/internal/bindata/html"
+	"github.com/guobang-yoo/proxypool/log"
 
-	"github.com/Sansui233/proxypool/config"
-	appcache "github.com/Sansui233/proxypool/internal/cache"
-	"github.com/Sansui233/proxypool/pkg/provider"
+	"github.com/guobang-yoo/proxypool/config"
+	appcache "github.com/guobang-yoo/proxypool/internal/cache"
+	"github.com/guobang-yoo/proxypool/pkg/provider"
 	"github.com/gin-contrib/cache"
 	"github.com/gin-contrib/cache/persistence"
 	"github.com/gin-gonic/gin"

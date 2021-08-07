@@ -1,13 +1,13 @@
 package getter
 
 import (
-	"github.com/Sansui233/proxypool/log"
+	"github.com/guobang-yoo/proxypool/log"
 	"io/ioutil"
 	"strings"
 	"sync"
 
-	"github.com/Sansui233/proxypool/pkg/proxy"
-	"github.com/Sansui233/proxypool/pkg/tool"
+	"github.com/guobang-yoo/proxypool/pkg/proxy"
+	"github.com/guobang-yoo/proxypool/pkg/tool"
 )
 
 // Add key value pair to creatorMap(string → creator) in base.go

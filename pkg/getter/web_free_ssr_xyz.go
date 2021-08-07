@@ -2,12 +2,12 @@ package getter
 
 import (
 	"encoding/json"
-	"github.com/Sansui233/proxypool/log"
+	"github.com/guobang-yoo/proxypool/log"
 	"io/ioutil"
 	"sync"
 
-	"github.com/Sansui233/proxypool/pkg/proxy"
-	"github.com/Sansui233/proxypool/pkg/tool"
+	"github.com/guobang-yoo/proxypool/pkg/proxy"
+	"github.com/guobang-yoo/proxypool/pkg/tool"
 )
 
 func init() {
