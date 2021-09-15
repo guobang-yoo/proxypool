@@ -10,7 +10,7 @@ source-files:
   # - https://example.com/config/source.yaml
   # - https://raw.githubusercontent.com/guobang-yoo/proxypool/master/config/source.yaml
   - https://raw.githubusercontent.com/guobang-yoo/proxypool/master/config/subscribe.yaml
-  # - https://raw.githubusercontent.com/guobang-yoo/proxypool/master/config/tgcapture.yaml
+  - https://raw.githubusercontent.com/guobang-yoo/proxypool/master/config/tgcapture.yaml
 
 # ======= 可选项，留空使用default值  =======
 
