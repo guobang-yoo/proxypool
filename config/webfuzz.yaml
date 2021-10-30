@@ -1,3 +1,7 @@
 - type: webfuzz
   options:
-    url: https://github.com/googlehosts/hosts/wiki/%E5%AE%9E%E9%AA%8C%E5%AE%A4#shadowsocks
+    url: https://merlinblog.xyz/wiki/freess.html
+
+- type: webfuzz
+  options:
+    url: https://github.com/freefq/free
