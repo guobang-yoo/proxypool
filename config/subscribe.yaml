@@ -16,6 +16,10 @@
   options:
     url: https://raw.githubusercontent.com/ssrsub/ssr/master/ssrsub
 
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/alanbobs999/TopFreeProxies/master/sub/sub_merge_base64.txt
+
 
 ####
 - type: subscribe
