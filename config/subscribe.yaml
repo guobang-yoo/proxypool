@@ -16,9 +16,9 @@
   options:
     url: https://raw.githubusercontent.com/ssrsub/ssr/master/ssrsub
 
-- type: subscribe
-  options:
-    url: https://raw.githubusercontent.com/alanbobs999/TopFreeProxies/master/sub/sub_merge_base64.txt
+# - type: subscribe
+#   options:
+#     url: https://raw.githubusercontent.com/alanbobs999/TopFreeProxies/master/sub/sub_merge_base64.txt
 
 
 ####
@@ -46,7 +46,7 @@
 
 - type: subscribe
   options:
-    url: https://github.com/Leon406/Sub/blob/master/sub/share/tr
+    url: https://raw.githubusercontent.com/freefq/free/master/ssr
 
 - type: subscribe
   options:
